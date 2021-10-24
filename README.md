@@ -10,19 +10,8 @@ NLTK ( For Word Recognition )
 
 Django ( BackEnd for the server )
 
-Bokeh ( Not implemented yet)
-
-## Repos related to this project listed below
-
-[wordcal](https://github.com/defunSM/wordcal)
-
-[css/html](https://github.com/bxshaf/countleaf)
-
-# Contributors
-
-[defunsm](https://github.com/defunsm)
-
-[bxshaf](https://github.com/bxshaf)
+## Live Link
+[countleaf.herokuapp.com](countleaf.herokuapp.com)
 
 
 
